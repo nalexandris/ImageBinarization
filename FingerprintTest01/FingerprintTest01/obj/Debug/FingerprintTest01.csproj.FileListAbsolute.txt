@@ -1,0 +1,9 @@
+c:\users\n1k0s\documents\visual studio 2015\Projects\FingerprintTest01\FingerprintTest01\bin\Debug\FingerprintTest01.exe.config
+c:\users\n1k0s\documents\visual studio 2015\Projects\FingerprintTest01\FingerprintTest01\bin\Debug\FingerprintTest01.exe
+c:\users\n1k0s\documents\visual studio 2015\Projects\FingerprintTest01\FingerprintTest01\bin\Debug\FingerprintTest01.pdb
+c:\users\n1k0s\documents\visual studio 2015\Projects\FingerprintTest01\FingerprintTest01\obj\Debug\FingerprintTest01.Form1.resources
+c:\users\n1k0s\documents\visual studio 2015\Projects\FingerprintTest01\FingerprintTest01\obj\Debug\FingerprintTest01.Properties.Resources.resources
+c:\users\n1k0s\documents\visual studio 2015\Projects\FingerprintTest01\FingerprintTest01\obj\Debug\FingerprintTest01.csproj.GenerateResource.Cache
+c:\users\n1k0s\documents\visual studio 2015\Projects\FingerprintTest01\FingerprintTest01\obj\Debug\FingerprintTest01.exe
+c:\users\n1k0s\documents\visual studio 2015\Projects\FingerprintTest01\FingerprintTest01\obj\Debug\FingerprintTest01.pdb
+C:\Users\n1k0s\Documents\Visual Studio 2015\Projects\FingerprintTest01\FingerprintTest01\obj\Debug\FingerprintTest01.csprojResolveAssemblyReference.cache
